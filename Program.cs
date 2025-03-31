@@ -13,12 +13,7 @@ namespace git
 
             Console.WriteLine("howdy one more modfication");
 
-            Console.WriteLine("howdy one more modfication");
-
-            Console.WriteLine("howdy one more modfication");
-
-            Console.WriteLine("howdy one more modfication");
-
+          
         }
     }
 }
